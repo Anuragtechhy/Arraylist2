@@ -21,7 +21,7 @@ public class Array2 {
 	            }
 	            System.out.println();
 		
-		
+		System.out.println("good");
 		
 	}
 }
